@@ -1,0 +1,129 @@
+[
+    {
+        "id": "Pizzeria shabbat",
+        "nombre": "Pizzeria shabbat",
+        "categoria": [
+            "Pizza",
+            "Alimentos"
+        ],
+        "productos": [
+            "Pepperori",
+            "Ranchera",
+            "Mexicana",
+            "Hawaiana",
+            "Carnes frias",
+            "Champiniones",
+            "Clasicca"
+        ]
+    },
+    {
+        "id": "Mariachi mi bello Veracruz",
+        "nombre": "Mariachi mi bello Veracruz",
+        "categoria": [
+            "Mariachi",
+            "Musica",
+            "Entretenimiento"
+        ],
+        "productos": [
+            "Musica Traditional Mexicana",
+            "Ranchera",
+            "Romantica ",
+            "Cumbias",
+            "Sones",
+            "Guapangos"
+        ]
+    },
+    {
+        "id": "Jarceria Lupita",
+        "nombre": "Jarceria Lupita",
+        "categoria": [
+            " Productos de Limpieza a granel",
+            "Jabones Liquidos",
+            "Liquidos limpiadores",
+            "Higiene"
+        ],
+        "productos": [
+            "Escobas ",
+            "Jergas",
+            "Atomizadores",
+            "Cepillos",
+            "Fabuloso",
+            "Zote Rosa",
+            "Zote Blanco",
+            "Mas Color",
+            "Ariel",
+            "Perfil"
+        ]
+    },
+    {
+        "id": "Alas Flautas",
+        "nombre": "Alas Flautas",
+        "categoria": [
+            "Flautas fritas",
+            "Flautas sin freir",
+            "Flautas",
+            "Alimentos"
+        ],
+        "productos": [
+            "carne",
+            "queso",
+            "pollo",
+            "papa",
+            "papa con queso"
+        ]
+    },
+    {
+        "id": "Alas Barbas Club Restaurante",
+        "nombre": "Alas Barbas Club Restaurante",
+        "categoria": [
+            "Alimentos"
+        ],
+        "productos": [
+            "Alitas",
+            "Hamburguesas",
+            "Tenders",
+            "Papas al Hornos",
+            "Hot Dogs"
+        ]
+    },
+    {
+        "id": "Birria estilo arandas el guero",
+        "nombre": "Birria estilo arandas el guero",
+        "categoria": [
+            "Birria",
+            "Alimentos"
+        ],
+        "productos": [
+            "Tacos",
+            "Consome",
+            "Consome grande",
+            "Kilo"
+        ]
+    },
+    {
+        "id": "Paqueteria abarrotes",
+        "nombre": "Paqueteria abarrotes",
+        "categoria": [
+            "Fletes y mudanza",
+            "Mudanzas"
+        ],
+        "productos": [
+            "Envian muebles, generalmente a puebla y queretaro",
+            "Envian local a tlanepantla, atizapan, tepozotlan, nicolas romero"
+        ]
+    },
+    {
+        "id": "El parnerazo",
+        "nombre": "El parnerazo",
+        "categoria": [
+            "Alimentos"
+        ],
+        "productos": [
+            "barbacoa",
+            "pambazos",
+            "sopes",
+            "enchilades",
+            "chilaquiles"
+        ]
+    }
+]
