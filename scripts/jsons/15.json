@@ -1,0 +1,67 @@
+[
+    {
+        "id": "Tapabocas de Tela",
+        "nombre": "Tapabocas de Tela",
+        "categoria": [
+            "Tapabocas",
+            "Higiene"
+        ],
+        "productos": [
+            "Tapaboca naranja adulto",
+            "Tapaboca naranja infantil",
+            "Tapaboca verde adulto",
+            "Tapaboca verde infantil "
+        ]
+    },
+    {
+        "id": "Falaris",
+        "nombre": "Falaris",
+        "categoria": [
+            "Alimentos",
+            "Bebidas"
+        ],
+        "productos": [
+            "Arroz, salsa verde, pambazos de papa y carne, lechuga y crema, postre",
+            "Pasta con vegetales, pure de papa, pollo en crema con champiñones, tortillas y postre",
+            "Espaguetti, ensalada, jitomate relleno de atún, galletas saladas y postre",
+            "Crema de espinaca, frijoles refritos, pechuga rellena de vegetales, tortillas y postre",
+            "Especial chamorro preparación tipo carnitas, tortillas, salsa, limón cebolla y cilantro"
+        ]
+    },
+    {
+        "id": "Consultorio Psicológico ",
+        "nombre": "Consultorio Psicológico ",
+        "categoria": [
+            "Consulta",
+            "Salud",
+            "Psicologo"
+        ],
+        "productos": [
+            "Consulta presencial o en linea"
+        ]
+    },
+    {
+        "id": "Tortas el cartel",
+        "nombre": "Tortas el cartel",
+        "categoria": [
+            "Alimentos",
+            "Tortas"
+        ],
+        "productos": [
+            "El señor de los cielos",
+            "Chacorta",
+            "El Padrino",
+            "Cochiloco",
+            "La Tuta",
+            "La reina del sur",
+            "El chapo",
+            "Ovido Guzman",
+            "La reina del pacifico",
+            "Pablo escobar",
+            "El J.J.",
+            "La Barbie",
+            "El Mayo",
+            "Caro Quintero"
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "El rincón cubano",
+        "nombre": "El rincón cubano",
+        "categoria": [
+            "Especiales ",
+            "Complementos ",
+            "Comida cubana ",
+            "Alimentos"
+        ],
+        "productos": [
+            "Masas de cerdo fritas ",
+            "Fricase de cerdo ",
+            "Bistec de cerdo/res encebollado ",
+            "Costillas asadas ",
+            "Pollo o cerdo a la piña ",
+            "Caldosa ",
+            "Tostones ",
+            "Papas fritas ",
+            "Fritura malanga ",
+            "Camote frito ",
+            "Yuca con mojo ",
+            "Pollo o cerdo a la naranja ",
+            "Arroz amarillo con cerdo/pollo ",
+            "Sopa de chicharos ",
+            "Arroz frito "
+        ]
+    },
+    {
+        "id": "Black And White Beauty Salón An",
+        "nombre": "Black And White Beauty Salón An",
+        "categoria": [
+            "Barberia ",
+            "Paquetes ",
+            "Especiales ",
+            "Beauty salón ",
+            "Paquetes de novia ",
+            "Belleza"
+        ],
+        "productos": [
+            "Corte regular ",
+            "Corte fade ",
+            "Corte fade con navaja ",
+            "Delineado de barba ",
+            "Afeitado de barba completo ",
+            "Afeitado de cabeza completo ",
+            "Delineado de ceja ",
+            "Mascarilla negra ",
+            "Exfoliación ",
+            "Grecas ",
+            "Corte regular y delineado de barba ",
+            "Corte y mascarila negra ",
+            "Corte fade y carbón activo ",
+            "Corte y exfoliación ",
+            "Corte fade y exfoliación",
+            "Corte fade con navaja y exfoliacion ",
+            "Corte, delineado de barba, exfoliación y mascarilla negra con ozono ",
+            "Corte, delineado de barba, exfoliación y mascarilla negra con corte fade  ",
+            "Corte dama (corto) ",
+            "Corte dama (largo) ",
+            "Bases (desde) ",
+            "Aplicación de tintes ",
+            "Tintes ",
+            "Mechas ",
+            "Balayagee ",
+            "Gelish ",
+            "Manicure ",
+            "Pedicure ",
+            "alaciado express",
+            "Peinados ",
+            "Curly ",
+            "Maquillaje ",
+            "Planchado de ceja ",
+            "Depilación de bigote (ozono) ",
+            "Aplicación de carbón activo (quita puntos negros) ",
+            "Exfoliación ",
+            "Keratina ",
+            "Peinado, maquillaje y pestañas en el salón ",
+            "Peinado, maquillaje y pestñas a domicilio "
+        ]
+    }
+]
