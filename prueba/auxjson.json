@@ -1,0 +1,227 @@
+[
+    {
+        "id": "Tapabocas de Tela",
+        "nombre": "Tapabocas de Tela",
+        "telefono": "na",
+        "categoria": [
+            "tapaboca ",
+            "tapaboca ",
+            "tapaboca ",
+            "tapaboca ",
+            "tapaboca "
+        ],
+        "productos": [
+            {
+                "producto": "Tapaboca naranja adulto",
+                "precio": "$10 ",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca naranja infantil",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca verde adulto",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca verde infantil ",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            }
+        ]
+    },
+    {
+        "id": "Falaris",
+        "nombre": "Falaris",
+        "telefono": "na",
+        "categoria": [
+            "comida lunes",
+            "comida lunes",
+            "comida martes",
+            "comida martes",
+            "comida miercoles",
+            "comida miercoles",
+            "comida jueves",
+            "comida jueves",
+            "comida viernes",
+            "comida viernes"
+        ],
+        "productos": [
+            {
+                "producto": "Arroz, salsa verde, pambazos de papa y carne, lechuga y crema, postre",
+                "precio": "$40",
+                "categoria": "comida lunes",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pasta con vegetales, pure de papa, pollo en crema con champiñones, tortillas y postre",
+                "precio": "$40",
+                "categoria": "comida martes",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Espaguetti, ensalada, jitomate relleno de atún, galletas saladas y postre",
+                "precio": "$40",
+                "categoria": "comida miercoles",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Crema de espinaca, frijoles refritos, pechuga rellena de vegetales, tortillas y postre",
+                "precio": "$40",
+                "categoria": "comida jueves",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Especial chamorro preparación tipo carnitas, tortillas, salsa, limón cebolla y cilantro",
+                "precio": "$40",
+                "categoria": "comida viernes",
+                "cantidad": "1 pz"
+            }
+        ]
+    },
+    {
+        "id": "Consultorio Psicológico ",
+        "nombre": "Consultorio Psicológico ",
+        "telefono": "na",
+        "categoria": [
+            "consulta",
+            "consulta"
+        ],
+        "productos": [
+            {
+                "producto": "Consulta presencial o en linea",
+                "precio": "$300",
+                "categoria": "consulta",
+                "cantidad": "una hora "
+            }
+        ]
+    },
+    {
+        "id": "Tortas el cartel",
+        "nombre": "Tortas el cartel",
+        "telefono": "na",
+        "categoria": [
+            "el señor de los cielos",
+            "el señor de los cielos",
+            "chacorta",
+            "chacorta",
+            "el padrino",
+            "el padrino",
+            "cochiloco",
+            "cochiloco",
+            "la tuta",
+            "la tuta",
+            "la reina del sur",
+            "la reina del sur",
+            "el chapo",
+            "el chapo",
+            "ovido guzman",
+            "ovido guzman",
+            "la reina del pacifico",
+            "la reina del pacifico",
+            "pablo escobar",
+            "pablo escobar",
+            "el j.j.",
+            "el j.j.",
+            "la barbie",
+            "la barbie",
+            "el mayo",
+            "el mayo",
+            "caro quintero",
+            "caro quintero"
+        ],
+        "productos": [
+            {
+                "producto": "Milanesa, pierna y quesillo",
+                "precio": "60.0",
+                "categoria": "el señor de los cielos",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, chorizo y quesillo",
+                "precio": "60.0",
+                "categoria": "chacorta",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, jamón y quesillo",
+                "precio": "60.0",
+                "categoria": "el padrino",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "cochiloco",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, salchicha y quesillo",
+                "precio": "60.0",
+                "categoria": "la tuta",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, jamón, piña y quesillo",
+                "precio": "55.0",
+                "categoria": "la reina del sur",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, jamón, salchicha, chorizo, huevo, queso amarillo y quesillo",
+                "precio": "65.0",
+                "categoria": "el chapo",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Bistec, chorizo, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "ovido guzman",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pechuga de pollo, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "la reina del pacifico",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, salchicha, chorizo y quesillo",
+                "precio": "55.0",
+                "categoria": "pablo escobar",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Chorizo y doble quesillo",
+                "precio": "55.0",
+                "categoria": "el j.j.",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Chorizo, salchicha y quesillo",
+                "precio": "55.0",
+                "categoria": "la barbie",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Huevo, chorizo y quesillo",
+                "precio": "55.0",
+                "categoria": "el mayo",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, pierna, jamón, salchicha, chorizo y quesillo",
+                "precio": "65.0",
+                "categoria": "caro quintero",
+                "cantidad": "1 pz"
+            }
+        ]
+    }
+]

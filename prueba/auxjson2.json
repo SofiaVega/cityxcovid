@@ -1,0 +1,5876 @@
+[
+    {
+        "id": "todo loko",
+        "nombre": "todo loko",
+        "telefono": "na",
+        "categoria": [
+            "alimentos",
+            "bebidas",
+            "botanas"
+        ],
+        "productos": [
+            {
+                "producto": "alitas bbq",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas bbq hot",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas brava",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas buffalo",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas frutos rojos",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas mango/guajillo",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas mango/habanero",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas pastor",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas picositas",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas piña",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas tamarindo",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alipapas",
+                "precio": "75.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alitas",
+                "precio": "110.0",
+                "categoria": "alimentos",
+                "cantidad": "10pzs"
+            },
+            {
+                "producto": "alitas con papas",
+                "precio": "140.0",
+                "categoria": "alimentos",
+                "cantidad": "10pzs"
+            },
+            {
+                "producto": "alitas",
+                "precio": "220.0",
+                "categoria": "alimentos",
+                "cantidad": "20pzs"
+            },
+            {
+                "producto": "alitas con papas",
+                "precio": "250.0",
+                "categoria": "alimentos",
+                "cantidad": "20pzs"
+            },
+            {
+                "producto": "papas fritas",
+                "precio": "27.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "papas gajo",
+                "precio": "30.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa sencilla",
+                "precio": "30.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa sencilla con papas",
+                "precio": "50.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa hawaiana",
+                "precio": "40.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa hawaiana con papas",
+                "precio": "60.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa doble carne",
+                "precio": "50.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa doble carne con papas",
+                "precio": "70.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa  con queso",
+                "precio": "35.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hamburguesa con queso con papas",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito hawaiano",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito suadero",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito bistec",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito hawaiano con papas",
+                "precio": "75.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito suadero con papas",
+                "precio": "75.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "burrito bistec con papas",
+                "precio": "75.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de milanesa",
+                "precio": "35.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de pierna",
+                "precio": "35.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de pollo",
+                "precio": "35.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de jamón",
+                "precio": "27.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de salchicha",
+                "precio": "27.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta hawaiana",
+                "precio": "40.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta de suadero",
+                "precio": "35.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "torta combinada de 3 ingredientes",
+                "precio": "45.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "sincronizadas",
+                "precio": "27.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "plátanos fritos",
+                "precio": "27.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "plátanos capeados",
+                "precio": "33.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de fresa",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de chocolate",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de oreo",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de nutella",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de rompope",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de vainilla",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de café",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de chicle",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de hersheys",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de cajeta",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frappe de caramelo",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "frapuccino",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyadas",
+                "precio": "35.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de mango",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de fresa",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de guayaba",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de piña",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de limón",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de pelón",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de pepino",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chamoyada loka de sandía",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "esquites",
+                "precio": "20.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "esquites con suadero",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "esquites con tuétano",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "esquites con doritos",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "esquites con queso oaxaca",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "elotes",
+                "precio": "20.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "dorielotes",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "manzanas con chamoy",
+                "precio": "25.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "manzanas con chocolate",
+                "precio": "25.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "manzana loka",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "mango loko",
+                "precio": "45.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "jicama loka",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "botana loka",
+                "precio": "55.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "dorilokos",
+                "precio": "22.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "dorilokos especiales",
+                "precio": "38.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chicharrón preparado",
+                "precio": "15.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chicharrón preparado especial",
+                "precio": "30.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "cacahuates lokos",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "lagrimitas lokas",
+                "precio": "25.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "sopa maruchan loka",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "sopa maruchan con suadero",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "sopa maruchan con jamón y queso",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "coctel de frutas",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "nachos",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "nachos lokos con bistec",
+                "precio": "60.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "cueros lokos",
+                "precio": "27.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chicharrón loko",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chicharrón loko",
+                "precio": "60.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "dulce loko",
+                "precio": "40.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "fresas congeladas",
+                "precio": "35.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "fresas con crema",
+                "precio": "22.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "manzanas con crema",
+                "precio": "22.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "yoghurt congelado",
+                "precio": "7.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "danonino congelado",
+                "precio": "7.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "yoghurt congelado con chocolate",
+                "precio": "10.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "danonino congelado con chocolate",
+                "precio": "10.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "vaka loka",
+                "precio": "30.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "chichapapas",
+                "precio": "28.0",
+                "categoria": "botanas",
+                "cantidad": ""
+            },
+            {
+                "producto": "hotdog",
+                "precio": "12.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hotdog con queso",
+                "precio": "16.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "hotdog hawaiano",
+                "precio": "22.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "ensalada básica",
+                "precio": "55.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "ensalada grande",
+                "precio": "80.0",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "extras ensalada",
+                "precio": "$7 c/u",
+                "categoria": "alimentos",
+                "cantidad": ""
+            },
+            {
+                "producto": "agua de manzana con avena",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de fresa con avena",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de fresa",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de limón",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de limón con chía",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de piña",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de melón",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de sandía",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de mango",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de guayaba",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de pepino",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            },
+            {
+                "producto": "agua de horchata",
+                "precio": "30.0",
+                "categoria": "bebidas",
+                "cantidad": "1ltr"
+            }
+        ]
+    },
+    {
+        "id": "DXN",
+        "nombre": "DXN",
+        "telefono": "na",
+        "categoria": [
+            "redes sociales:",
+            "",
+            "nombre de servicio",
+            "dxn"
+        ],
+        "productos": [
+            {
+                "producto": "https://m.facebook.com/MLM.Organico/?ref=bookmarks",
+                "precio": "",
+                "categoria": "redes sociales:",
+                "cantidad": ""
+            },
+            {
+                "producto": "https://en-red.wixsite.com/pedidos/linea-organica-dxn",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "categoria",
+                "precio": "cantidad de producto",
+                "categoria": "nombre de servicio",
+                "cantidad": "productos especificos"
+            },
+            {
+                "producto": "servicio",
+                "precio": "",
+                "categoria": "dxn",
+                "cantidad": "kit de membresía"
+            },
+            {
+                "producto": "cereal",
+                "precio": "20 sobres de 30gr",
+                "categoria": "",
+                "cantidad": "cereal con cordyceps"
+            },
+            {
+                "producto": "cereal",
+                "precio": "30 sobres de 30gr",
+                "categoria": "",
+                "cantidad": "spirulina cereal"
+            },
+            {
+                "producto": "café",
+                "precio": "20 sobres de 21gr",
+                "categoria": "",
+                "cantidad": "café 3 en 1"
+            },
+            {
+                "producto": "jugos",
+                "precio": "caja de 6 botellas",
+                "categoria": "",
+                "cantidad": "DXN morinzhi"
+            },
+            {
+                "producto": "jugos",
+                "precio": "1 botella",
+                "categoria": "",
+                "cantidad": "DXN morinzhi"
+            },
+            {
+                "producto": "jugos",
+                "precio": "caja de 6 botellas",
+                "categoria": "",
+                "cantidad": "DXN morinzyme"
+            },
+            {
+                "producto": "jugos",
+                "precio": "1 botella de 245ml",
+                "categoria": "",
+                "cantidad": "DXN morinzyme"
+            },
+            {
+                "producto": "café",
+                "precio": "frasco de 200g",
+                "categoria": "",
+                "cantidad": "civatino coffe"
+            },
+            {
+                "producto": "té",
+                "precio": "bolsa con 20 costales individuales",
+                "categoria": "",
+                "cantidad": "té spica"
+            },
+            {
+                "producto": "té",
+                "precio": "bolsa con 12 sobres individuales",
+                "categoria": "",
+                "cantidad": "tea latte"
+            },
+            {
+                "producto": "café",
+                "precio": "bolsa con 20 sobres",
+                "categoria": "",
+                "cantidad": "vita café"
+            },
+            {
+                "producto": "cocoa",
+                "precio": "bolsa con 20 sobres individuales",
+                "categoria": "",
+                "cantidad": "cocozhi"
+            },
+            {
+                "producto": "café",
+                "precio": "bolsa con 20 sobres individuales",
+                "categoria": "",
+                "cantidad": "café lingzhi 2 en 1"
+            },
+            {
+                "producto": "café",
+                "precio": "bolsa con 20 sobres individuales",
+                "categoria": "",
+                "cantidad": "café linzhi 3 en 1"
+            },
+            {
+                "producto": "café",
+                "precio": "caja de 20 sobres",
+                "categoria": "",
+                "cantidad": "zhi mocha"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 120 tabletas",
+                "categoria": "",
+                "cantidad": "spirulina platensis"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 30 cápsulas",
+                "categoria": "",
+                "cantidad": "black cumin plus"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 30 cápsulas",
+                "categoria": "",
+                "cantidad": "monascus"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 120 tabletas",
+                "categoria": "",
+                "cantidad": "lion´s mane"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 60 cápsulas",
+                "categoria": "",
+                "cantidad": "cordyceps"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 120 tabletas",
+                "categoria": "",
+                "cantidad": "bee pollen"
+            },
+            {
+                "producto": "suplemento alimenticio",
+                "precio": "frasco con 30 cápsulas",
+                "categoria": "",
+                "cantidad": "extracto de ganoderma lucidum"
+            },
+            {
+                "producto": "belleza e higiene personal",
+                "precio": "botella con 250ml",
+                "categoria": "",
+                "cantidad": "gel de baño ganozhi"
+            },
+            {
+                "producto": "belleza e higiene personal",
+                "precio": "pieza de 80gr",
+                "categoria": "",
+                "cantidad": "jabón ganozhi DXN"
+            },
+            {
+                "producto": "belleza e higiene personal",
+                "precio": "barra de 150gr",
+                "categoria": "",
+                "cantidad": "pasta dental ganozhi"
+            },
+            {
+                "producto": "belleza e higiene personal",
+                "precio": "frasco con 25ml",
+                "categoria": "",
+                "cantidad": "aceite ganozhi"
+            }
+        ]
+    },
+    {
+        "id": "HIMPAREC",
+        "nombre": "HIMPAREC",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "HIMPAREC",
+                "precio": "fabricación de muebles de diseño",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Casa Funeraria San Francisco",
+        "nombre": "Casa Funeraria San Francisco",
+        "telefono": "na",
+        "categoria": [
+            "servicio"
+        ],
+        "productos": [
+            {
+                "producto": "servicios funerarios",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "capillas de velación",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "servicios de previsión a futuro",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "exhumaciones",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "inhumaciones",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "cremaciones",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "traslados internacionales",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            },
+            {
+                "producto": "traslados nacionales",
+                "precio": "varía",
+                "categoria": "servicio",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "RYR SERVICIOS INTEGRALES",
+        "nombre": "RYR SERVICIOS INTEGRALES",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "RYR  SERVICIOS INTEGRALES",
+                "precio": "mobiliario de oficina",
+                "categoria": "",
+                "cantidad": "mobiliario"
+            }
+        ]
+    },
+    {
+        "id": "Purificadora AGUAPURA",
+        "nombre": "Purificadora AGUAPURA",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Purificadora AGUAPURA",
+                "precio": "garrafón",
+                "categoria": "",
+                "cantidad": "agua"
+            }
+        ]
+    },
+    {
+        "id": "Costuras a Domicilio",
+        "nombre": "Costuras a Domicilio",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Costuras a domicilio",
+                "precio": "costura",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Papeleria Caritas",
+        "nombre": "Papeleria Caritas",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Papeleria Caritas",
+                "precio": "electrónica",
+                "categoria": "",
+                "cantidad": "electrónica"
+            }
+        ]
+    },
+    {
+        "id": "Oro Verde",
+        "nombre": "Oro Verde",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Oro verde",
+                "precio": "diseño de jardines",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Neku Zayoli",
+        "nombre": "Neku Zayoli",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Neku Zayoli",
+                "precio": "litro de miel",
+                "categoria": "",
+                "cantidad": "miel"
+            }
+        ]
+    },
+    {
+        "id": "ACABADOS DE BARRO CANTERA Y MAR",
+        "nombre": "ACABADOS DE BARRO CANTERA Y MAR",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "ACABADOS DE BARRO CANTERA Y MARMOL",
+                "precio": "cantera",
+                "categoria": "",
+                "cantidad": "construcción"
+            }
+        ]
+    },
+    {
+        "id": "Tacos de guisados Amigo Miguel",
+        "nombre": "Tacos de guisados Amigo Miguel",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Tacos de guisado Amigo Miguel",
+                "precio": "comida por persona",
+                "categoria": "",
+                "cantidad": "comidas"
+            }
+        ]
+    },
+    {
+        "id": "Mitland",
+        "nombre": "Mitland",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Mitland",
+                "precio": "ciel",
+                "categoria": "",
+                "cantidad": "refrescos"
+            }
+        ]
+    },
+    {
+        "id": "Café Montes Azules",
+        "nombre": "Café Montes Azules",
+        "telefono": "na",
+        "categoria": [
+            "53.0",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "53.0",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Café Montes Azules",
+                "precio": "llevamos el café a tu coche",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Latín beauty salón",
+        "nombre": "Latín beauty salón",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Latín beauty salón",
+                "precio": "estética",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Restaurante Mexicano Mar",
+        "nombre": "Restaurante Mexicano Mar",
+        "telefono": "na",
+        "categoria": [
+            "mariscos",
+            "bebidas",
+            "comida"
+        ],
+        "productos": [
+            {
+                "producto": "pescadito",
+                "precio": "42.0",
+                "categoria": "mariscos",
+                "cantidad": "3pzs"
+            },
+            {
+                "producto": "tostada de camarón",
+                "precio": "22.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "tostada de pulpo",
+                "precio": "22.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "empanada de camarón",
+                "precio": "29.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "campechana de camarón",
+                "precio": "29.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "taco de camarón",
+                "precio": "28.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "ensalada de camarón",
+                "precio": "65.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "alambre de camarón y pulpo",
+                "precio": "90.0",
+                "categoria": "mariscos",
+                "cantidad": ""
+            },
+            {
+                "producto": "jarra de agua de sabor",
+                "precio": "22.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "jarra de agua de sabor",
+                "precio": "40.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "refresco",
+                "precio": "16.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "tehuacán escarchado",
+                "precio": "20.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "tarro de limonada",
+                "precio": "20.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "tarro de naranjada",
+                "precio": "20.0",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "tacos",
+                "precio": "",
+                "categoria": "comida",
+                "cantidad": ""
+            },
+            {
+                "producto": "tortas",
+                "precio": "",
+                "categoria": "comida",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Carnitas Acambaro",
+        "nombre": "Carnitas Acambaro",
+        "telefono": "na",
+        "categoria": [
+            "",
+            "18.0"
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Carnitas Acambaro",
+                "precio": "taquizas para eventos",
+                "categoria": "18.0",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Centro Holistico GAPI",
+        "nombre": "Centro Holistico GAPI",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Centro Holistico GAPI",
+                "precio": "acupuntura",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "Dragon's Bikers",
+        "nombre": "Dragon's Bikers",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "Dragon's Bikers",
+                "precio": "restauración",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "El Monstruo",
+        "nombre": "El Monstruo",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "El Monstruo",
+                "precio": "hamburguesa sencillita",
+                "categoria": "",
+                "cantidad": "hamburguesas"
+            }
+        ]
+    },
+    {
+        "id": "La canasta de mama",
+        "nombre": "La canasta de mama",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "La canasta de mamá",
+                "precio": "taco pequeño de chicharrón",
+                "categoria": "",
+                "cantidad": "tacos"
+            }
+        ]
+    },
+    {
+        "id": "SistemasMX",
+        "nombre": "SistemasMX",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "nombre de servicio",
+                "precio": "productos especificos",
+                "categoria": "",
+                "cantidad": "categoria"
+            },
+            {
+                "producto": "SistemasMX",
+                "precio": "software CONTPAQI",
+                "categoria": "",
+                "cantidad": "servicio"
+            }
+        ]
+    },
+    {
+        "id": "VIDRIO Y ALUMINIO LAS COLONIAS",
+        "nombre": "VIDRIO Y ALUMINIO LAS COLONIAS",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": "ej. 1 L."
+            },
+            {
+                "producto": "Domos de aluminio policarbonato",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cristal templado",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cristal templado",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Para baño Cristal templado 10 mm",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Para entrada principal",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Como entrada principal",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Naturales ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Color",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "LABORATORIO VITALLAB",
+        "nombre": "LABORATORIO VITALLAB",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "Análisis de laboaratorio",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "Debido a la cantidad de Análisis varía mucho el precio, para más información contacte al laboratorio"
+            },
+            {
+                "producto": "Estudio Toxicológicos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Audiometría y Espirometría",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Electrocardiograma",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Ultrasonido",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Toma a domicilio",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Estudios de laboratio empresarial",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Prueba de embarazo Cualitativa en Sangre",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "139.0"
+            },
+            {
+                "producto": "Prueba Rápida de influenza(20 min)",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "650.0"
+            },
+            {
+                "producto": "Cultivo Exudado Faríngeo con Antibiograma",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "230.0"
+            },
+            {
+                "producto": "Antígeno Prostático Total",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "149.0"
+            },
+            {
+                "producto": "Tamiz Neonatal AMPLIADO básico (22 Determinaciones)",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "900.0"
+            },
+            {
+                "producto": "Perfil Tiroideo Básico",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "539.0"
+            },
+            {
+                "producto": "Perfil Hormonal",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "1100.0"
+            },
+            {
+                "producto": "Perfil Prenupcial Básico",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "180.0"
+            },
+            {
+                "producto": "Perfil Prenatal Básico",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "375.0"
+            },
+            {
+                "producto": "Glucosa, Colesterol, Triglicéridos y Examen General de Orina",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "150.0"
+            },
+            {
+                "producto": "Química Sanguínea 6 elementos+Biometría Hemática+Examen General de Orina",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "256.0"
+            },
+            {
+                "producto": "Quimica Sanguínea 35 elementos+Biometría Hemática+Examen General de Orina",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "599.0"
+            },
+            {
+                "producto": "Examen General de Orina+Urocultivo",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "250.0"
+            },
+            {
+                "producto": "Trae tu receta de IMSS, ISSTE, ISSEMyM y recibe un descuento especial",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Cocina TIBY",
+        "nombre": "Cocina TIBY",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": "ej. 1 L."
+            },
+            {
+                "producto": "Comida completa",
+                "precio": "55.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Almuerzo",
+                "precio": "45.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Desayuno",
+                "precio": "45.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Litro de sopa",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Litro de arroz",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Litro de frijoles",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Cocina económica don Juanito",
+        "nombre": "Cocina económica don Juanito",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": " -Fideo",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " Codo",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " -Estrellita",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " -Letra",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " -Caracol",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " -Almeja",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": " -Moño",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Rojo",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Blanco",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Salsa verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Salsa roja",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mole rojo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mole verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pipián",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Adobo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Guajillo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pasilla",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Jitomate con papas",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "A la mexciana",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chicharrón salsa verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chicharrón salsa roja",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Longaniza salsa roja",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Costilla en guajillo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "cOSTILLA EN PASILLA",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Costilla en mole verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Costilla en pipián",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Costilla en adobo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chuleta en salsa verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Entomatado",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Espinazo en guajillo",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Espinazo en salsa verde con verdolagas",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chuleta en salsa roja",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bistec en morita",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bistec en salsa verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bistec en salsa roja",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Caldo de res con verdua",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Caldo de res tlalpeño",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mole de olla",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "En jitomate con papas",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Albóndigas",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Entomatado",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bistec asado con ensalada",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Milanesa con ensalada",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pata de res salsa verde",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pancita",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tortas de carne en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Coliflor capeada en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Espinacas capeadas en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Calabaza capeadas en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tortas de carne en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tortas de papa con ensalada",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Nopal relleno de jamón y queso Oaxaca en caldillo de jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chile rellenos de queso Oaxaca en caldillo  e jitomate",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Jamaica",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tamarindo",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Avena",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Guayaba",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Melón",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Limón ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Papaya",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Naranja",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Coca Cola ",
+                "precio": "22.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Toronja",
+                "precio": "22.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Manzanita",
+                "precio": "22.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pepsi",
+                "precio": "22.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chiva cola 600 ml",
+                "precio": "25.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Verde de pollo",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mole de Pollo",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Rajas con queso",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Dulce con pasas",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Guajillo",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Arroz con leche",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Avena",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chocolae",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Champurrado",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Galleta",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Fresa",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cajeta",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Nuez",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con 2 piezas de huevo, queso, crema cebolla",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con pollo deshebreado, queso, crema, cebolla",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con bistec asado, queso, crema, cebolla",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "A la mexicana",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con Salchica",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con jamón",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con longaniza",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con tocino",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Fresa",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Plátano",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Avena",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mamey",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Chocolate",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Nuez",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Rojo",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Blanco",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "OF Diseños",
+        "nombre": "OF Diseños",
+        "telefono": "na",
+        "categoria": [],
+        "productos": []
+    },
+    {
+        "id": "El Mundo de las Ofertas",
+        "nombre": "El Mundo de las Ofertas",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": "ej. 1 L."
+            },
+            {
+                "producto": "Mate",
+                "precio": "De 10 a 35 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mágicos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Luminosos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tornasol",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Líquids",
+                "precio": "De 15 a 35 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Punta Plumón",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Punta pincel",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Líquido de colores",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Económico",
+                "precio": "De 20 a 50 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Porefesional",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Maquillaje Líquido",
+                "precio": "De 15 a 60 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Económico y Profesional",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Maquillaje Compacto",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Maquilla Translucido",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Paletas profesionales y económicas",
+                "precio": "De 10 a 200 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Individuales",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Líquidas ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tipo Crema",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Para ojos",
+                "precio": "Desde 10 a 18 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Para labios",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Decoración de Uñas",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Uñas postizas",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pestañas postizas",
+                "precio": "8 a 35",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pegamento de Uñas",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pegamento para pestañas",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Económico",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Profesional",
+                "precio": "25.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Aceites para humectar cabello",
+                "precio": "15.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cacao para los labios",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Brillo labial ",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tintas para los labios",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Fijador para maquillaje",
+                "precio": "35.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Primmer para maquillaje",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Crema para el rostro",
+                "precio": "199.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Colágeno para el rostro",
+                "precio": "35 y 60",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Correctores de Ojos",
+                "precio": "15.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Contorneadores",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Collares",
+                "precio": "15.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Aretes",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pulseras",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bolitas paquetes",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cuquitas paquete",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Valerinas",
+                "precio": "12.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pasadores",
+                "precio": "8.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pinzas para el Cabello",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Donas para el cabello",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Diademas ",
+                "precio": "4.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cosmetiqueras",
+                "precio": "25.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bolsitas de mano",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Crema para manos",
+                "precio": "8.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Lima de Uñas",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Moños para peinados ",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Monos para regalos",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Loterías",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Slime",
+                "precio": "5,15,20",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Squizze",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pelotas",
+                "precio": "15.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Libro de colorear",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Carritos",
+                "precio": "35.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Crayolas",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Colores",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Canicas",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Matamoscas",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Antenas para Tv",
+                "precio": "50.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Sílica",
+                "precio": "8,25,45",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Encendedores",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cerillos",
+                "precio": "8.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Platos de plásticos",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Estropajos de baño",
+                "precio": "8,20",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Estropajos de lavar trastes",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pegamento blanco",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bolsas de regalo",
+                "precio": "6,8,15",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Llaveros",
+                "precio": "6,8",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Rallador de queso",
+                "precio": "8.0",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "JC Real State",
+        "nombre": "JC Real State",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": "ej. 1 L."
+            },
+            {
+                "producto": "Arrendamiento",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Compra-venta",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cesión de derechos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Prenda",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Hipoteca",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Prestación de servicios",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Comodato",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "entre otros",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Psicoterapeuta",
+        "nombre": "Psicoterapeuta",
+        "telefono": "na",
+        "categoria": [
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "Aplicacion y valoracion de pruebas psicometricas",
+                "precio": "Sesiones semanales  por videoconferencia de 60 minutos por 300 pesos. Previas a cita.",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Coeficiente intelectual ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Problemas de aprendizaje ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Terapia de lenguaje ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Trastorno por deficit de atención con y sin hiperactividad",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Duelo",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Ansiedad",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Depresión ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Adicciones",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Hipnosis",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Identificacion y tratamiento de victimas y generadores de violencia",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Escuela para padres ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "* Diagnostico diferencial neurologico *",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Mapeo cerebral",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "- Electroencefalograma ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Las Torres",
+        "nombre": "Las Torres",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            "productos",
+            "tablas ",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tamaño Ancho ",
+                "precio": "Precio",
+                "categoria": "productos",
+                "cantidad": "clase"
+            },
+            {
+                "producto": "30 cm",
+                "precio": "210.0",
+                "categoria": "tablas ",
+                "cantidad": "1A "
+            },
+            {
+                "producto": "30 cm ",
+                "precio": "150.0",
+                "categoria": "",
+                "cantidad": "2a"
+            },
+            {
+                "producto": "30 cm ",
+                "precio": "135.0",
+                "categoria": "",
+                "cantidad": "3a"
+            },
+            {
+                "producto": "25 cm",
+                "precio": "190.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "25 cm",
+                "precio": "140.0",
+                "categoria": "",
+                "cantidad": "2a"
+            },
+            {
+                "producto": "25 cm",
+                "precio": "130.0",
+                "categoria": "",
+                "cantidad": "3a"
+            },
+            {
+                "producto": "20cm",
+                "precio": "140.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "20cm",
+                "precio": "100.0",
+                "categoria": "",
+                "cantidad": "2a"
+            },
+            {
+                "producto": "20cm",
+                "precio": "90.0",
+                "categoria": "",
+                "cantidad": "3a"
+            },
+            {
+                "producto": "15cm",
+                "precio": "105.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "15cm",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "2a"
+            },
+            {
+                "producto": "15cm",
+                "precio": "70.0",
+                "categoria": "",
+                "cantidad": "3a"
+            },
+            {
+                "producto": "10cm",
+                "precio": "70.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "10cm",
+                "precio": "50.0",
+                "categoria": "",
+                "cantidad": "2a"
+            },
+            {
+                "producto": "10cm",
+                "precio": "45.0",
+                "categoria": "",
+                "cantidad": "3a"
+            },
+            {
+                "producto": "18 MM",
+                "precio": "790.0",
+                "categoria": "",
+                "cantidad": "Chileno"
+            },
+            {
+                "producto": "15 mm",
+                "precio": "740.0",
+                "categoria": "",
+                "cantidad": "chileno"
+            },
+            {
+                "producto": "11 mm",
+                "precio": "690.0",
+                "categoria": "",
+                "cantidad": "Chileno"
+            },
+            {
+                "producto": "8mm",
+                "precio": "590.0",
+                "categoria": "",
+                "cantidad": "Chileno"
+            },
+            {
+                "producto": "5 mm",
+                "precio": "330.0",
+                "categoria": "",
+                "cantidad": "Caobilla"
+            },
+            {
+                "producto": "3 mm",
+                "precio": "220.0",
+                "categoria": "",
+                "cantidad": "Caobilla"
+            },
+            {
+                "producto": "7.5 x 7.5 m",
+                "precio": "120.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "3.5cm x 7.5 m",
+                "precio": "70.0",
+                "categoria": "",
+                "cantidad": "1a"
+            },
+            {
+                "producto": "1a con tarima nueva",
+                "precio": "100.0",
+                "categoria": "",
+                "cantidad": "1.0"
+            },
+            {
+                "producto": "1a con tarima usada",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": "1.0"
+            },
+            {
+                "producto": "2a",
+                "precio": "50.0",
+                "categoria": "",
+                "cantidad": "1.0"
+            },
+            {
+                "producto": "3a",
+                "precio": "45.0",
+                "categoria": "",
+                "cantidad": "1.0"
+            },
+            {
+                "producto": "* Mínimo 30 metros cuadrados, más flete, más deposito",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Molduras",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Zoclos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Bastones",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Cortineros",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Vigas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Aglomerado",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       MDF",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Melamina",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "⮚       Puertas de Tambor",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Juan Morales",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "55 2982 6945"
+            }
+        ]
+    },
+    {
+        "id": "Mis delicias",
+        "nombre": "Mis delicias",
+        "telefono": "na",
+        "categoria": [
+            "ej. lacteos",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "ej. leche Lala organica",
+                "precio": "ej. 45 MXN",
+                "categoria": "ej. lacteos",
+                "cantidad": "ej. 1 L."
+            },
+            {
+                "producto": "Rellenos de zarzamora",
+                "precio": "7 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Rellenos de crema pastelera",
+                "precio": "7 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Clásica",
+                "precio": "5 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con chocolate",
+                "precio": "6 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Con chocolate",
+                "precio": "4.5",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Sin chocolate",
+                "precio": "4.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Manzana con canela",
+                "precio": "6 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Elote",
+                "precio": "6 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Azúcar glass",
+                "precio": "6 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "De crema pastelera",
+                "precio": "5 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "De azúcar glass",
+                "precio": "5 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Como bolillo",
+                "precio": "1.50 pesos",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Como telera",
+                "precio": "1.50 pesos",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Hoja5",
+        "nombre": "Hoja5",
+        "telefono": "na",
+        "categoria": [
+            "",
+            "juan morales"
+        ],
+        "productos": [
+            {
+                "producto": "Sillas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bancas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Recámara loft",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Accesorios para baño",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Accesorios para cocina",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Base de Tinaco",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tapa de sisterna",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Letrero",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Asador",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Puertas Ventas y protecciones",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Estufa de leña para campamento",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Accesorios para Motocicletas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pulpos para serigrafía",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Escudos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Espadas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cerraduras y Jaladera",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bisagras",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Llavero y Zapatera",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Asientos para combi",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Adornos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Masetero",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Porta licores y botellas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Figuras",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Figuras de Motocicletas y vehículos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Resbaladilla",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "55 2982 6945",
+                "precio": "",
+                "categoria": "juan morales",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Pizzeria shabbat",
+        "nombre": "Pizzeria shabbat",
+        "telefono": "na",
+        "categoria": [
+            "pizza",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "Pepperori",
+                "precio": "120.0",
+                "categoria": "pizza",
+                "cantidad": "Chica"
+            },
+            {
+                "producto": "Ranchera",
+                "precio": "180.0",
+                "categoria": "",
+                "cantidad": "Mediana"
+            },
+            {
+                "producto": "Mexicana",
+                "precio": "230.0",
+                "categoria": "",
+                "cantidad": "Grande "
+            },
+            {
+                "producto": "Hawaiana",
+                "precio": "280.0",
+                "categoria": "",
+                "cantidad": "Familiar"
+            },
+            {
+                "producto": "Carnes frias",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Champiniones",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Clasicca",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Mariachi mi bello Veracruz",
+        "nombre": "Mariachi mi bello Veracruz",
+        "telefono": "na",
+        "categoria": [
+            "mariachi",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "Musica Traditional Mexicana",
+                "precio": "2800.0",
+                "categoria": "mariachi",
+                "cantidad": "7 integrantes"
+            },
+            {
+                "producto": "Ranchera",
+                "precio": "3200.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Romantica ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Cumbias",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Sones",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Guapangos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Jarceria Lupita",
+        "nombre": "Jarceria Lupita",
+        "telefono": "na",
+        "categoria": [
+            " productos de limpieza a granel",
+            "jabones liquidos",
+            "liquidos limpiadores",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "Escobas ",
+                "precio": "40.0",
+                "categoria": " productos de limpieza a granel",
+                "cantidad": "1 Pieza (calidad y tamaño)"
+            },
+            {
+                "producto": "Jergas",
+                "precio": "n/a",
+                "categoria": "jabones liquidos",
+                "cantidad": "1 Pieza"
+            },
+            {
+                "producto": "Atomizadores",
+                "precio": "n/a",
+                "categoria": "liquidos limpiadores",
+                "cantidad": "1 Pieza"
+            },
+            {
+                "producto": "Cepillos",
+                "precio": "n/a",
+                "categoria": "",
+                "cantidad": "1 Pieza"
+            },
+            {
+                "producto": "Fabuloso",
+                "precio": "10.0",
+                "categoria": "",
+                "cantidad": "1L"
+            },
+            {
+                "producto": "Zote Rosa",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": "1L"
+            },
+            {
+                "producto": "Zote Blanco",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": "1L"
+            },
+            {
+                "producto": "Mas Color",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": "1L"
+            },
+            {
+                "producto": "Ariel",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": "1L"
+            },
+            {
+                "producto": "Perfil",
+                "precio": "17.0",
+                "categoria": "",
+                "cantidad": "1L"
+            }
+        ]
+    },
+    {
+        "id": "Alas Flautas",
+        "nombre": "Alas Flautas",
+        "telefono": "na",
+        "categoria": [
+            "flautas fritas",
+            "flautas sin freir",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "carne",
+                "precio": "(10c/u sin freir) (200 MXN 16 flautas fritas, las fluatas con queso, salsa y lechuga)",
+                "categoria": "flautas fritas",
+                "cantidad": "22 cm"
+            },
+            {
+                "producto": "queso",
+                "precio": "(10c/u sin freir) (200 MXN 16 flautas fritas, las fluatas con queso, salsa y lechuga)",
+                "categoria": "flautas sin freir",
+                "cantidad": "22 cm"
+            },
+            {
+                "producto": "pollo",
+                "precio": "(10c/u sin freir) (200 MXN 16 flautas fritas, las fluatas con queso, salsa y lechuga)",
+                "categoria": "",
+                "cantidad": "22 cm"
+            },
+            {
+                "producto": "papa",
+                "precio": "(10c/u sin freir) (200 MXN 16 flautas fritas, las fluatas con queso, salsa y lechuga)",
+                "categoria": "",
+                "cantidad": "22 cm"
+            },
+            {
+                "producto": "papa con queso",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "22 cm"
+            }
+        ]
+    },
+    {
+        "id": "Alas Barbas Club Restaurante",
+        "nombre": "Alas Barbas Club Restaurante",
+        "telefono": "na",
+        "categoria": [
+            "",
+            "birria",
+            "fletes y mudanza"
+        ],
+        "productos": [
+            {
+                "producto": "Alitas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "pieza"
+            },
+            {
+                "producto": "Hamburguesas",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "pieza"
+            },
+            {
+                "producto": "Tenders",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "pieza"
+            },
+            {
+                "producto": "Papas al Hornos",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "pieza"
+            },
+            {
+                "producto": "Hot Dogs",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "pieza"
+            },
+            {
+                "producto": "Tacos",
+                "precio": "18.0",
+                "categoria": "birria",
+                "cantidad": ""
+            },
+            {
+                "producto": "Consome",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Consome grande",
+                "precio": "25.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Kilo",
+                "precio": "275.0",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "Envian muebles, generalmente a puebla y queretaro",
+                "precio": "1500.0",
+                "categoria": "fletes y mudanza",
+                "cantidad": "Camion de mudanza"
+            },
+            {
+                "producto": "Envian local a tlanepantla, atizapan, tepozotlan, nicolas romero",
+                "precio": "1500.0",
+                "categoria": "",
+                "cantidad": "Camion de mudanza"
+            },
+            {
+                "producto": "barbacoa",
+                "precio": "440.0",
+                "categoria": "",
+                "cantidad": "1/4, 1/2, 1 KG"
+            },
+            {
+                "producto": "pambazos",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "una porcion"
+            },
+            {
+                "producto": "sopes",
+                "precio": "100.0",
+                "categoria": "",
+                "cantidad": "una porcion"
+            },
+            {
+                "producto": "enchilades",
+                "precio": "90.0",
+                "categoria": "",
+                "cantidad": "una porcion"
+            },
+            {
+                "producto": "chilaquiles",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "una porcion"
+            }
+        ]
+    },
+    {
+        "id": "Tapabocas de Tela",
+        "nombre": "Tapabocas de Tela",
+        "telefono": "na",
+        "categoria": [
+            "tapaboca "
+        ],
+        "productos": [
+            {
+                "producto": "Tapaboca naranja adulto",
+                "precio": "$10 ",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca naranja infantil",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca verde adulto",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Tapaboca verde infantil ",
+                "precio": "$10",
+                "categoria": "tapaboca ",
+                "cantidad": "1 pz"
+            }
+        ]
+    },
+    {
+        "id": "Falaris",
+        "nombre": "Falaris",
+        "telefono": "na",
+        "categoria": [
+            "comida lunes",
+            "comida martes",
+            "comida miercoles",
+            "comida jueves",
+            "comida viernes"
+        ],
+        "productos": [
+            {
+                "producto": "Arroz, salsa verde, pambazos de papa y carne, lechuga y crema, postre",
+                "precio": "$40",
+                "categoria": "comida lunes",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pasta con vegetales, pure de papa, pollo en crema con champiñones, tortillas y postre",
+                "precio": "$40",
+                "categoria": "comida martes",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Espaguetti, ensalada, jitomate relleno de atún, galletas saladas y postre",
+                "precio": "$40",
+                "categoria": "comida miercoles",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Crema de espinaca, frijoles refritos, pechuga rellena de vegetales, tortillas y postre",
+                "precio": "$40",
+                "categoria": "comida jueves",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Especial chamorro preparación tipo carnitas, tortillas, salsa, limón cebolla y cilantro",
+                "precio": "$40",
+                "categoria": "comida viernes",
+                "cantidad": "1 pz"
+            }
+        ]
+    },
+    {
+        "id": "Consultorio Psicológico ",
+        "nombre": "Consultorio Psicológico ",
+        "telefono": "na",
+        "categoria": [
+            "consulta"
+        ],
+        "productos": [
+            {
+                "producto": "Consulta presencial o en linea",
+                "precio": "$300",
+                "categoria": "consulta",
+                "cantidad": "una hora "
+            }
+        ]
+    },
+    {
+        "id": "Tortas el cartel",
+        "nombre": "Tortas el cartel",
+        "telefono": "na",
+        "categoria": [
+            "el señor de los cielos",
+            "chacorta",
+            "el padrino",
+            "cochiloco",
+            "la tuta",
+            "la reina del sur",
+            "el chapo",
+            "ovido guzman",
+            "la reina del pacifico",
+            "pablo escobar",
+            "el j.j.",
+            "la barbie",
+            "el mayo",
+            "caro quintero"
+        ],
+        "productos": [
+            {
+                "producto": "Milanesa, pierna y quesillo",
+                "precio": "60.0",
+                "categoria": "el señor de los cielos",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, chorizo y quesillo",
+                "precio": "60.0",
+                "categoria": "chacorta",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, jamón y quesillo",
+                "precio": "60.0",
+                "categoria": "el padrino",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "cochiloco",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, salchicha y quesillo",
+                "precio": "60.0",
+                "categoria": "la tuta",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, jamón, piña y quesillo",
+                "precio": "55.0",
+                "categoria": "la reina del sur",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, jamón, salchicha, chorizo, huevo, queso amarillo y quesillo",
+                "precio": "65.0",
+                "categoria": "el chapo",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Bistec, chorizo, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "ovido guzman",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pechuga de pollo, tocino y quesillo",
+                "precio": "60.0",
+                "categoria": "la reina del pacifico",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Pierna, salchicha, chorizo y quesillo",
+                "precio": "55.0",
+                "categoria": "pablo escobar",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Chorizo y doble quesillo",
+                "precio": "55.0",
+                "categoria": "el j.j.",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Chorizo, salchicha y quesillo",
+                "precio": "55.0",
+                "categoria": "la barbie",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Huevo, chorizo y quesillo",
+                "precio": "55.0",
+                "categoria": "el mayo",
+                "cantidad": "1 pz"
+            },
+            {
+                "producto": "Milanesa, pierna, jamón, salchicha, chorizo y quesillo",
+                "precio": "65.0",
+                "categoria": "caro quintero",
+                "cantidad": "1 pz"
+            }
+        ]
+    },
+    {
+        "id": "MANDALA ",
+        "nombre": "MANDALA ",
+        "telefono": "na",
+        "categoria": [
+            "hamburguesas",
+            "",
+            "especialidades",
+            "banderillas",
+            "otros",
+            "bebidas",
+            "salsas"
+        ],
+        "productos": [
+            {
+                "producto": "TRADICIONAL",
+                "precio": "5539929902.0",
+                "categoria": "hamburguesas",
+                "cantidad": "50 MXN"
+            },
+            {
+                "producto": "HAWAIANA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "55 MXN"
+            },
+            {
+                "producto": "CHICKEN LITTLE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "50 MXN"
+            },
+            {
+                "producto": "COLOMBIAS",
+                "precio": "",
+                "categoria": "especialidades",
+                "cantidad": "70 MXN"
+            },
+            {
+                "producto": "TEX-BURGER",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "75 MXN"
+            },
+            {
+                "producto": "ALITAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "60 MXN"
+            },
+            {
+                "producto": "COSTILLAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "65 MXN"
+            },
+            {
+                "producto": "TRADICIONAL",
+                "precio": "",
+                "categoria": "banderillas",
+                "cantidad": "30 MXN"
+            },
+            {
+                "producto": "SALCHEESE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "35 MXN"
+            },
+            {
+                "producto": "BANDECHEESE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "35 MXN"
+            },
+            {
+                "producto": "PAPAS A LA FRANCESA",
+                "precio": "",
+                "categoria": "otros",
+                "cantidad": "45 MXN"
+            },
+            {
+                "producto": "AROS DE CEBOLLA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "45 MXN"
+            },
+            {
+                "producto": "POLLOMITAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "45 MXN"
+            },
+            {
+                "producto": "CHICKEN TENDER",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "70 MXN"
+            },
+            {
+                "producto": "DEDOS DE QUESO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "65 MXN"
+            },
+            {
+                "producto": "PAPA DE WAFFLE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "55 MXN"
+            },
+            {
+                "producto": "PAPA DE GAJO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "55 MXN"
+            },
+            {
+                "producto": "SODAS ITALIANAS",
+                "precio": "",
+                "categoria": "bebidas",
+                "cantidad": "20 MXN"
+            },
+            {
+                "producto": "COCA COLA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "20 MXN"
+            },
+            {
+                "producto": "REFRESCOS PREPARADOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "30 MXN"
+            },
+            {
+                "producto": "BBQ",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "RFRESA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MANGO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "TAMRINDO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "RED HOT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCAL",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ATÓMICAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "RANCH, RANCH HOT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "5 MXN "
+            }
+        ]
+    },
+    {
+        "id": "MARYKAY",
+        "nombre": "MARYKAY",
+        "telefono": "na",
+        "categoria": [
+            "mary kay ",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "MAQUILLAJE EN POLVO SUELTO MINERAL",
+                "precio": "5516070026.0",
+                "categoria": "mary kay ",
+                "cantidad": "149 MXN"
+            },
+            {
+                "producto": "CREMA CORRECTORA DE COLOR CON FPS 15",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "236 MXN"
+            },
+            {
+                "producto": "MAQUILLAJE EN POLVO TRASLUCIDO MINERAL",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "110.50 MXN"
+            },
+            {
+                "producto": "MAQUILLAJE EN CREMA CON ACABADO EN POLVO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "173 MXN"
+            },
+            {
+                "producto": "MAQUILLAJE LIQUIDO TIMEWISE 3D",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "268 MXN"
+            },
+            {
+                "producto": "MARY KAY PERFECT PALETTE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "135 MXN"
+            },
+            {
+                "producto": "MARYKAY PETITE PALETTE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "50 MXN"
+            },
+            {
+                "producto": "FIJADOR DE MAQUILLAJE EN SPRAY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "307 MXN"
+            },
+            {
+                "producto": "PAPELILLOS ABSORBENTES DE BRILLO FACIAL",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "75 MXN"
+            },
+            {
+                "producto": "POLVO SUELTO TRASLUCIDO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "239 MXN"
+            },
+            {
+                "producto": "BASE PARA MAQUILLAJE FPS 15",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "217 MXN"
+            },
+            {
+                "producto": "LOCIÓN FACIAL MATIFICANTE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "172 MXN"
+            },
+            {
+                "producto": "CORRECTOR ILUMINADOR PARA OJOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "192 MXN"
+            },
+            {
+                "producto": "CORRECTOR MARY KAY PERFECTING CONCEALER",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "192 MXN"
+            },
+            {
+                "producto": "CORRECTOR PARA OJOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "145 MXN"
+            },
+            {
+                "producto": "RUBOR COMPACTO MARY KAY CHROMAFUSION",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "99 MXN"
+            },
+            {
+                "producto": "POLVO PARA CONTORNO DE ROSTRO MARY KAY CHROMAFUSION",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "99 MXN"
+            },
+            {
+                "producto": "ILUMINADOR PARA ROSTRO MARY KAY CHROMAFUSION",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "99 MXN"
+            },
+            {
+                "producto": "ILUMINADOR LIQUIDO EDICION LIMITADA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "392 MXN"
+            },
+            {
+                "producto": "SOMBRA PARA OJOS MARY KAY CHROMAFUSION",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "85 MXN"
+            },
+            {
+                "producto": "LOCIÓN DESMAQUILLANTE DE OJOS LIBRE DE ACEITE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "254 MXN"
+            },
+            {
+                "producto": "BASE PARA SOMBRAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "145 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH INTENSITY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "243 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "192 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE EDICION LIMITADA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "192 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS DE MÁXIMO DESEMPEÑO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "192 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS A PRUEBA DE AGUA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "158 MXN"
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "226 MXN"
+            },
+            {
+                "producto": "GEL VOLUMINIZADOR ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "194 MXN"
+            },
+            {
+                "producto": "LAPIZ DEFINIDOR DE CEJAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "149 MXN"
+            },
+            {
+                "producto": "MINI ESTUCHE PARA CEJAS ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "82 MXN"
+            },
+            {
+                "producto": "LABIAL EN GEL SEMI-SHINE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "194 MXN"
+            },
+            {
+                "producto": "BRILLO LABIAL NOURI SHINE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "175 MXN"
+            },
+            {
+                "producto": "LABIAL EN GEL SEMI MATE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "194 MXN"
+            },
+            {
+                "producto": "LABIAL MATE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "218 MXN"
+            },
+            {
+                "producto": "TINTAPARA LABIOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "264 MXN"
+            },
+            {
+                "producto": "LAPIZ DELINEADOR PARA LABIOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "165 MXN"
+            },
+            {
+                "producto": "LIMPIADOR DE BROCHAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "224 MXN"
+            },
+            {
+                "producto": "SET ESENCIAL DE BROCHAS CON ESTUCHE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "939 MXN"
+            },
+            {
+                "producto": "BROCHA DELINEADORA PARA OJOS Y CEJAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "135 MXN"
+            },
+            {
+                "producto": "ESPONJA PARA MAQUILLAJE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "166 MXN"
+            },
+            {
+                "producto": "BROCHA PARA COLOR EN CREMA ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "161 MXN"
+            },
+            {
+                "producto": "BROCHA OVAL PARA MAQUILLAJE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "239 MXN"
+            },
+            {
+                "producto": "BROCHA PARA MAQUILLAJE LIQUIDO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "209 MXN"
+            },
+            {
+                "producto": "BROCHA PARA MAQUILLAJE EN POLVO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "178 MXN"
+            },
+            {
+                "producto": "BROCHA COMPACTA PARA RUBOR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "41 MXN"
+            },
+            {
+                "producto": "BROCHA COMPACTA PARA POLVO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "52 MXN"
+            },
+            {
+                "producto": "APLICADORES DE OJOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "32 MXN"
+            },
+            {
+                "producto": "ESPONJA COSMETICA ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "43 MXN"
+            },
+            {
+                "producto": "ESPONJA COMPACTA PARA POLVO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "41 MXN"
+            },
+            {
+                "producto": "LAPIZ DELINEADOR PARA OJOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "134 MXN"
+            },
+            {
+                "producto": "SACAPUNTAS ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "19 MXN"
+            },
+            {
+                "producto": "TRIO DE SOMBRAS AT PLAY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "144 MXN"
+            },
+            {
+                "producto": "MAQUILLAJE LIQUIDO MATE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "199 MXN"
+            },
+            {
+                "producto": "CRAYÓN CORRECTOR DE COLOR ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "145 MXN"
+            },
+            {
+                "producto": "CRAYÓN PARA CONTORNO DE ROSTRO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "145 MXN"
+            },
+            {
+                "producto": "CRAYÓN ILUMINADOR PARA ROSTRO",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "145 MXN"
+            },
+            {
+                "producto": "CRAYONES IRIDISCENTES",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "189 MXN"
+            },
+            {
+                "producto": "LABIAL LIQUIDO MATE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "189 MXN"
+            },
+            {
+                "producto": "GEL LIMPIADOR BOTANICAL EFFECT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "213 MXN"
+            },
+            {
+                "producto": "MASCARILLA EXFOLEANTE BOTANICAL EFFECT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "234 MXN"
+            },
+            {
+                "producto": "TÓNICO FACIAL REFRESCANTE EFFECT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "203 MXN"
+            },
+            {
+                "producto": "LOCIÓN HUMECTANTE FACIALFPS 30 BOTANICAL EFFECT",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "213 MXN"
+            },
+            {
+                "producto": "GEL HUMECTANTE BOTANICAL EFFECTS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "218 MXN"
+            },
+            {
+                "producto": "GEL LIMPIADOR PARA CUTIS CON TENDENCIA AL ACNÉ CLEAR PROOF",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "254 MXN"
+            },
+            {
+                "producto": "LOCIÓN REFINADORA DE POROS PARA CUTIS CON TENDENCIA AL ACNÉ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "254 MXN"
+            },
+            {
+                "producto": "CREMA FOCALIZADA PARA CUTIS CON ACNÉ CLEAR PROOF",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "191 MXN"
+            },
+            {
+                "producto": "MASCARILLA FACIAL DE LIMPIEZA PROFUNDA CON CARBÓN ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "298 MXN"
+            },
+            {
+                "producto": "RUTINA IDEAL 3D ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "1549 MXN"
+            },
+            {
+                "producto": "LIMPIADORA FACIAL 4 EN 1 TIME WISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "337 MXN"
+            },
+            {
+                "producto": "CREMA FACIAL NOCTURNA TIME WISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "422 MXN"
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA TIME WISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "369 MXN"
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA FPS 30 TIME WISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "422 MXN"
+            },
+            {
+                "producto": "CREMA PARA EL CONTORNO DE LOS OJOS TIME WISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "368 MXN"
+            },
+            {
+                "producto": "ESPUMA LIMPIADORA FACIAL TIME WISE REPAIR ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "362 MXN"
+            },
+            {
+                "producto": "LOCIÓN FACIAL EFECTO REAFIRMANTE TIME WISE REPAIR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "795 MXN"
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA EFECTO REPARADOR FPS 30 TIMEWISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "572 MXN"
+            },
+            {
+                "producto": "CREMA FACIAL NOCTURNA EFECTO REPARADOR CON RETINOL TIMEWISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "572 MXN"
+            },
+            {
+                "producto": "CREMA DE ACCIÓN RENOVADORA PARA EL CONTORNO DE LOS OJOS TIMEWISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "495 MXN"
+            },
+            {
+                "producto": "MASCARILLA FACIAL EFECTO LIIFTING BIO-CELLULOSE TIMEWISE REPAIR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "1496 MXN"
+            },
+            {
+                "producto": "CREMA EFECTO RELLENADOR DE ARRUGAS TIMEWISE REPAIR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "453 MXN"
+            },
+            {
+                "producto": "GEL FACIAL EFECTO PEELING REVEALING TIMEWISE REPAIR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "799 MXN"
+            },
+            {
+                "producto": "SISTEMA PARA MICROEXFOLIACIÓN TIMEWISE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "699 MXN"
+            },
+            {
+                "producto": "MICROEXFOLIANTE REFINADOR TIMEWISE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "344 MXN"
+            },
+            {
+                "producto": "MINIMIZADOR DE POROS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "355 MXN"
+            },
+            {
+                "producto": "LOCIÓN FACIAL REGENERADORA +C TIMEWISE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "805 MXN"
+            },
+            {
+                "producto": "SUERO CORRECTOR DE TONO FACIAL TIMEWISE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "511 MXN"
+            },
+            {
+                "producto": "LOCIÓN FACIAL EFECTO REAFIRMANTE TIMEWISE REPAIR FORMULA AVANZADA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "795 MXN"
+            },
+            {
+                "producto": "GEL REFRESCANTE PARA PARPADOS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "208 MXN"
+            },
+            {
+                "producto": "PAPELILLOS DISOLUBLES PARA CUIDADO DE PIEL VITAMINA C ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "375 MXN"
+            },
+            {
+                "producto": "GEL FACIAL HIDRATANTE LIBRE DE ACEITE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "386 MXN"
+            },
+            {
+                "producto": "CREMA EXTRAHIDRATANTE INTENSIVA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "386 MXN"
+            },
+            {
+                "producto": "GEL LIMPIADOR FACIAL MK MEN ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "245 MXN"
+            },
+            {
+                "producto": "LOCION FACIAL HIDRATANTE INTENSIVA FPS 30 MK MEN",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "312 MXN"
+            },
+            {
+                "producto": "CREMA INTENSIVA PARA OJOS MKMEN ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "334 MXN"
+            },
+            {
+                "producto": "GEL REFRESCANTE PARA DESPUES DE AFEITAR MKMEN",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "208 MXN"
+            },
+            {
+                "producto": "ESPUMA PARA AFEITAR MKMEN",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "204 MXN"
+            },
+            {
+                "producto": "SET MKMEN",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "542 MXN"
+            },
+            {
+                "producto": "SISTEMA PARA EL CUIDADO DE LA PIEL SKINVIGORATE SONIC",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "1450 MXN"
+            },
+            {
+                "producto": "CABEZALES DE REPUESTO SKINVIGORATE SONIC",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "259 MXN"
+            },
+            {
+                "producto": "CABEZAL DE MASAJE FACIAL SKINVIGORATE SONIC",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "299 MXN"
+            },
+            {
+                "producto": "MASCARILLA REVITALIZADORA PARA CUERPO CON KARITÉ SATIN BODY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "260 MXN"
+            },
+            {
+                "producto": "CREMA LIMPIADORA REFRESCANTE PARA CUERPO CON KARITÉ SATIN BODY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "260 MXN"
+            },
+            {
+                "producto": "LOCIÓN CORPORAL SEDOSA CON KARITÉ SATIN BODY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "260 MXN"
+            },
+            {
+                "producto": "ESTUCHE PARA EL CUIDADO DE LAS MANOS SATIN HANDS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "566 MXN"
+            },
+            {
+                "producto": "CREMA PARA MANOS CON KARITÉ SATIN HANDS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "172 MXN"
+            },
+            {
+                "producto": "CREMA HUMECTANTE PARA LABIOS CON KARITÉ SATIN LIPS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "169 MXN"
+            },
+            {
+                "producto": "MASCARILLA EXFOLIANTE PARA LABIOS CON KARITÉ SATIN LIPS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "169 MXN"
+            },
+            {
+                "producto": "PROTECTOR SOLAR PARA LABIOS CON FPS 15",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "141 MXN"
+            },
+            {
+                "producto": "PROTECTOR SOLAR FPS 50",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "349 MXN"
+            },
+            {
+                "producto": "PROTECTOR SOLAR FPS 30",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "260 MXN"
+            },
+            {
+                "producto": "GEL CORPORAL RESTAURADOR PARA DESPUÉS DE ASOLEARSE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "190 MXN"
+            },
+            {
+                "producto": "LOCIÓN REAFIRMANTE CORPORAL TIMEWISE BODY ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "427 MXN"
+            },
+            {
+                "producto": "LOCIÓN HUMECTANTE PARA PIES Y PIERNAS ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "161 MXN"
+            },
+            {
+                "producto": "CREMA EXTRAEMOLIENTE DE NOCHE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "56 MXN"
+            },
+            {
+                "producto": "PERFUME PINK DIAMONDS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "431 MXN"
+            },
+            {
+                "producto": "PERFUME PINK DIAMOND INTENSE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "604 MXN"
+            },
+            {
+                "producto": "PERFUME LOVE FEARLESSLY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "539 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE PASSION NOIR",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "395 MXN"
+            },
+            {
+                "producto": "PERFUME MODERN CHARM",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "535 MXN"
+            },
+            {
+                "producto": "PERFUME DREAM FEARLESSLY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "539 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE BLACK DIAMONDS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "390 MXN"
+            },
+            {
+                "producto": "PERFUME LIVE FEARLESSLY",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "539 MXN"
+            },
+            {
+                "producto": "FRAGANCIA DREAM FERALESSLY RECARGABLE",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "109 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE CLEVER DARE ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "431 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE TRUE PASSION ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "395 MXN"
+            },
+            {
+                "producto": "EAU DE PARFUM CITY SCAPE PARA ELLA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "804 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE HELLO BRILLIANT ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "377 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE TRUE PASSION ",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "395 MXN"
+            },
+            {
+                "producto": "EAU DE TOILETTE MARYKAY WISH",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "461 MXN"
+            },
+            {
+                "producto": "EAU DE PARFUM FOREVER DIAMONDS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "431 MXN"
+            },
+            {
+                "producto": "EAU DE PARFUN BELLA BELARA",
+                "precio": "",
+                "categoria": "",
+                "cantidad": "496 MXN"
+            }
+        ]
+    },
+    {
+        "id": "TRANSPORTES",
+        "nombre": "TRANSPORTES",
+        "telefono": "na",
+        "categoria": [],
+        "productos": []
+    },
+    {
+        "id": "Sheet3",
+        "nombre": "Sheet3",
+        "telefono": "na",
+        "categoria": [
+            "jugos naturales",
+            "",
+            "desayunos",
+            "huevos",
+            "enchiladas",
+            "chilaquiles",
+            "varios",
+            "bebidas",
+            "postres"
+        ],
+        "productos": [
+            {
+                "producto": "Jugo de Naranja",
+                "precio": "15.0",
+                "categoria": "jugos naturales",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Jugo Verde (Naranja, piña, apio y espinaca)",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Jugo Mixto (Naranja, piña y fresa)",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Jugo Narapiña (Naranja, piña y papaya)",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Molletes (frijol, queso fundido y pico de gallo)",
+                "precio": "50.0",
+                "categoria": "desayunos",
+                "cantidad": "3 Molletes"
+            },
+            {
+                "producto": "Molletes Mixtos (Orden de jamón, longaniza y tocino)",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Hotcakes Sencillos (Miel de maple, cajeta, lechera, o mermelada)",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": "3 Hotcakes"
+            },
+            {
+                "producto": "Arma tus Hotcakes",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Arma tus Waffles",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Huevos al gusto (mexicana, jamón, salchicha o tocino)",
+                "precio": "70.0",
+                "categoria": "huevos",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Huevos con longaniza",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Albañil (Huevos revueltos con salsa de chile de árbol acompañado con frijoles refritos y rebanadas de aguacate)",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Aporreados (Huevos revueltos con salsa de chile de árbol y cecina de la casa)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Motuleños (Dos huevos estrellados servidos so bre tortilla frita bañados en una salsa roja y espolvoreados con trocitos de jamón, zanahoria, chícharo y queso cotija)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Orizabeños (Huevos revueltos con longaniza de Nogales Veracruz, servidos con una salsa verde y acompañados de frijoles refritos)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "A caballo (Dos huevos estrellados montados sobre una sábana de cecina de la casa bañados en salsa roja)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Al pasilla (Dos huevos estrellados bañados en salsa pasilla sobre nopal asado acompañados de frijoles refritos y espolvoreados con queso Cotija) ",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Del huerto (Dos huevos revueltos con champiñones y espinaca sobre una cama de nopal y acompañados de rebanadas de queso panela y aguacate)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Omelette de huevo completo (Relleno a elegir: jamón o salchicha o champiñones o espinacas)",
+                "precio": "70.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Omelette relleno (Relleno de jamón con jitomate, champiñones, queso Oaxaca y bañado en salsa roja)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Omelette light (Omelette de claras relleno de espinaca y queso fresco, sobre nopal asado con ensalada de lechuga, jitomate y pepino)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Incluye jugo de naranta, fruta (melón, papaya, sandía o mixta) y café de la olla.",
+                "precio": "(Incluído en el platillo)",
+                "categoria": "",
+                "cantidad": "1 Vaso/1 Taza"
+            },
+            {
+                "producto": "Cambio de jugo de naranja por un verde, mixto o narapiña",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Agrega una guarnición de chilaquiles a tu plato",
+                "precio": "15.0",
+                "categoria": "",
+                "cantidad": "1 Guarnición"
+            },
+            {
+                "producto": "Veracruzanos (Enfrijoladas rellenas de huevo a la mexicana espolvoreadas con queso cotija y perejil)",
+                "precio": "85.0",
+                "categoria": "enchiladas",
+                "cantidad": "3 Enchiladas"
+            },
+            {
+                "producto": "Veracruzanos CON LONGANIZA (Enfrijoladas rellenas de huevo a la mexicana espolvoreadas con queso cotija y perejil)",
+                "precio": "105.0",
+                "categoria": "",
+                "cantidad": "3 Enchiladas"
+            },
+            {
+                "producto": "Enfrijoladas (rellenas de pollo con queso fresco, cebolla y rodajas de chile serrano)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Enchiladas verdes o rojas (rellenas de pollo o queso fresco)",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Enchiladas verdes o rojas (rellenas de bistec)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Enchiladas verdes o rojas (rellenas de Cecina)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Enchiladas Suizas (Rellenas de pollo bañadas en una crema de cilantro con queso gratinado",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Enchiladas pasilla (Rellenas de papa con longaniza bañadas en salsa pasilla y espolvoreadas con queso fresco)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Incluye jugo de naranta, fruta (melón, papaya, sandía o mixta) y café de la olla.",
+                "precio": "(Incluído en el platillo)",
+                "categoria": "",
+                "cantidad": "1 Vaso/1 Taza"
+            },
+            {
+                "producto": "Cambio de jugo de naranja por un verde, mixto o narapiña",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos sencillos",
+                "precio": "70.0",
+                "categoria": "chilaquiles",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos con huevo",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos con claras",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos con pollo",
+                "precio": "80.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos con bistec",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles verdes o rojos con cecina",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Chilaquiles Tawá (servidos con salsa roja o verde acompañados de cecina de la casa, longaniza, crema, queso, cilantro y cebolla)",
+                "precio": "95.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Sincronizadas rancheras (Par de sincoronizadas de tortilla de maíz bañadas en salsa roja y frijoles refritos)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Sincronizadas especiales (Par de sincronizadas de maíz bañadas en salsa de frijol con huevo estrellado espolvoreadas con longaniza)",
+                "precio": "95.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Incluye jugo de naranta, fruta (melón, papaya, sandía o mixta) y café de la olla.",
+                "precio": "(Incluído en el platillo)",
+                "categoria": "",
+                "cantidad": "1 Vaso/1 Taza"
+            },
+            {
+                "producto": "Cambio de jugo de naranja por un verde, mixto o narapiña",
+                "precio": "5.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Sincronizadas (Tortilla de harina o maíz)",
+                "precio": "40.0",
+                "categoria": "varios",
+                "cantidad": "2 Sincronizadas"
+            },
+            {
+                "producto": "Club Sandwich (Elaborado con tocino, jamón, pollo y queso Oaxaca acompañado de papas a la francesa)",
+                "precio": "70.0",
+                "categoria": "",
+                "cantidad": "1 Sandwich"
+            },
+            {
+                "producto": "Trio de Sopes (Sopes de pollo, bistec y longaniza, servidos con lechuga, crema y queso)",
+                "precio": "60.0",
+                "categoria": "",
+                "cantidad": "3 Sopes"
+            },
+            {
+                "producto": "Tortas (jamón, salchicha, huevo)",
+                "precio": "45.0",
+                "categoria": "",
+                "cantidad": "1 Torta"
+            },
+            {
+                "producto": "Pechuga de pollo (Asada o empanizada con papas a la francesa, frijoles refritos y ensalada de lechuga, jitomate y pepino)",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Pechuga"
+            },
+            {
+                "producto": "Orden de papas a la francesa",
+                "precio": "32.0",
+                "categoria": "",
+                "cantidad": "1 Orden"
+            },
+            {
+                "producto": "Ensalada de la casa con pechuga de pollo o atún (combinación de lechuga italiana con espinaca, jitomate, champiñones, queso panela y croutones)",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Ensalada dulce con pechuga de pollo o atún (Lechuga italiana, fresa, manzana, arándanos, nuez picada y un poco de amaranto)",
+                "precio": "65.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Refrescos",
+                "precio": "18.0",
+                "categoria": "bebidas",
+                "cantidad": "No especifica"
+            },
+            {
+                "producto": "Malteadas",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Café Americano",
+                "precio": "18.0",
+                "categoria": "",
+                "cantidad": "1 Taza"
+            },
+            {
+                "producto": "Café de Olla",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": "1 Taza"
+            },
+            {
+                "producto": "Café con leche",
+                "precio": "20.0",
+                "categoria": "",
+                "cantidad": "1 Taza"
+            },
+            {
+                "producto": "Capuchino Natural",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Taza"
+            },
+            {
+                "producto": "Capuchino Sabor (Vainilla, moka, cajeta, rompope)",
+                "precio": "35.0",
+                "categoria": "",
+                "cantidad": "1 Taza"
+            },
+            {
+                "producto": "Leche con chocolate",
+                "precio": "22.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Licuado de Chocolate",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Licuado de Plátano",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Licuado de Avena",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Licuado de Fresa",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Licuado de Nuez",
+                "precio": "40.0",
+                "categoria": "",
+                "cantidad": "1 Vaso"
+            },
+            {
+                "producto": "Pan de Elote",
+                "precio": "30.0",
+                "categoria": "postres",
+                "cantidad": "1 Rebanada"
+            },
+            {
+                "producto": "Pan de Zanahoria",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "1 Rebanada"
+            },
+            {
+                "producto": "Cheesecake",
+                "precio": "35.0",
+                "categoria": "",
+                "cantidad": "1 Rebanada"
+            },
+            {
+                "producto": "Flan de Cajeta",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Bola de Helado",
+                "precio": "30.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            }
+        ]
+    },
+    {
+        "id": "Sheet7",
+        "nombre": "Sheet7",
+        "telefono": "na",
+        "categoria": [
+            "platillos",
+            "",
+            "comida corrida",
+            "extras"
+        ],
+        "productos": [
+            {
+                "producto": "Hígado encebollado",
+                "precio": "60.0",
+                "categoria": "platillos",
+                "cantidad": "1 Higado"
+            },
+            {
+                "producto": "Pechuga Asada o Empanizada",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Pechuga"
+            },
+            {
+                "producto": "Ensalada del día",
+                "precio": "50.0",
+                "categoria": "",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Filete de pescado",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Filete"
+            },
+            {
+                "producto": "Pechuga rellena (jamón con queso o champiñones con queso)",
+                "precio": "85.0",
+                "categoria": "",
+                "cantidad": "1 Pechuga"
+            },
+            {
+                "producto": "Carne asada",
+                "precio": "75.0",
+                "categoria": "",
+                "cantidad": "1 Pedazo de carne"
+            },
+            {
+                "producto": "Sopa del Día (Consome o arroz) + 3 Guisados -1 a elegir (o Tacos dorados o sopes (2 Piezas)",
+                "precio": "55.0",
+                "categoria": "comida corrida",
+                "cantidad": "1 Plato"
+            },
+            {
+                "producto": "Huevo",
+                "precio": "6.0",
+                "categoria": "extras",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Salchicha",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Plátano",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Molleja",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Pata",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            },
+            {
+                "producto": "Hígado",
+                "precio": "6.0",
+                "categoria": "",
+                "cantidad": "No Especifica"
+            }
+        ]
+    },
+    {
+        "id": "El rincón cubano",
+        "nombre": "El rincón cubano",
+        "telefono": "na",
+        "categoria": [
+            "especiales ",
+            "compelmentos ",
+            "comida cubana "
+        ],
+        "productos": [
+            {
+                "producto": "Masas de cerdo fritas ",
+                "precio": "140.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Fricase de cerdo ",
+                "precio": "140.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bistec de cerdo/res encebollado ",
+                "precio": "120.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Costillas asadas ",
+                "precio": "150/180",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pollo o cerdo a la piña ",
+                "precio": "140.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Caldosa ",
+                "precio": "70.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tostones ",
+                "precio": "40.0",
+                "categoria": "compelmentos ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Papas fritas ",
+                "precio": "35.0",
+                "categoria": "compelmentos ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Fritura malanga ",
+                "precio": "40.0",
+                "categoria": "compelmentos ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Camote frito ",
+                "precio": "35.0",
+                "categoria": "compelmentos ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Yuca con mojo ",
+                "precio": "40.0",
+                "categoria": "compelmentos ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pollo o cerdo a la naranja ",
+                "precio": "120.0",
+                "categoria": "comida cubana ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Arroz amarillo con cerdo/pollo ",
+                "precio": "100.0",
+                "categoria": "comida cubana ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Sopa de chicharos ",
+                "precio": "60.0",
+                "categoria": "comida cubana ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Arroz frito ",
+                "precio": "100.0",
+                "categoria": "comida cubana ",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "Black And White Beauty Salón An",
+        "nombre": "Black And White Beauty Salón An",
+        "telefono": "na",
+        "categoria": [
+            "barberia ",
+            "paquetes ",
+            "especiales ",
+            "beauty salón ",
+            "paquetes de novia "
+        ],
+        "productos": [
+            {
+                "producto": "Corte regular ",
+                "precio": "120.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte fade ",
+                "precio": "140.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte fade con navaja ",
+                "precio": "160.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Delineado de barba ",
+                "precio": "120.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Afeitado de barba completo ",
+                "precio": "180.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Afeitado de cabeza completo ",
+                "precio": "180.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Delineado de ceja ",
+                "precio": "60.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mascarilla negra ",
+                "precio": "180.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Exfoliación ",
+                "precio": "180.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Grecas ",
+                "precio": "50.0",
+                "categoria": "barberia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte regular y delineado de barba ",
+                "precio": "250.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte y mascarila negra ",
+                "precio": "250.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte fade y carbón activo ",
+                "precio": "290.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte y exfoliación ",
+                "precio": "300.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte fade y exfoliación",
+                "precio": "250.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte fade con navaja y exfoliacion ",
+                "precio": "280.0",
+                "categoria": "paquetes ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte, delineado de barba, exfoliación y mascarilla negra con ozono ",
+                "precio": "500.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte, delineado de barba, exfoliación y mascarilla negra con corte fade  ",
+                "precio": "580.0",
+                "categoria": "especiales ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte dama (corto) ",
+                "precio": "150.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Corte dama (largo) ",
+                "precio": "180.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Bases (desde) ",
+                "precio": "450 a 1300",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Aplicación de tintes ",
+                "precio": "120 P/tubo ",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Tintes ",
+                "precio": "400.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Mechas ",
+                "precio": "800/1200/1500/1800/2000",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Balayagee ",
+                "precio": "1000/1400/1600/2000",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Gelish ",
+                "precio": "160.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Manicure ",
+                "precio": "150.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Pedicure ",
+                "precio": "280.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "alaciado express",
+                "precio": "180.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Peinados ",
+                "precio": "250.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Curly ",
+                "precio": "200.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Maquillaje ",
+                "precio": "450.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Planchado de ceja ",
+                "precio": "80.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Depilación de bigote (ozono) ",
+                "precio": "80.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Aplicación de carbón activo (quita puntos negros) ",
+                "precio": "180.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Exfoliación ",
+                "precio": "180.0",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Keratina ",
+                "precio": "800/2000/2500/3000",
+                "categoria": "beauty salón ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Peinado, maquillaje y pestañas en el salón ",
+                "precio": "2200.0",
+                "categoria": "paquetes de novia ",
+                "cantidad": ""
+            },
+            {
+                "producto": "Peinado, maquillaje y pestñas a domicilio ",
+                "precio": "2800.0",
+                "categoria": "paquetes de novia ",
+                "cantidad": ""
+            }
+        ]
+    }
+]

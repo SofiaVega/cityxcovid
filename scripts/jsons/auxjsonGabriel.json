@@ -1,0 +1,1006 @@
+[
+    {
+        "id": "MANDALA ",
+        "nombre": "MANDALA ",
+        "telefono": "5539929902",
+        "categoria": [
+            "hamburguesas",
+            "especialidades",
+            "banderillas",
+            "otros",
+            "bebidas",
+            "salsas",
+            ""
+        ],
+        "productos": [
+            {
+                "producto": "TRADICIONAL",
+                "precio": "50 MXN",
+                "categoria": "hamburguesas",
+                "cantidad": ""
+            },
+            {
+                "producto": "HAWAIANA",
+                "precio": "55 MXN",
+                "categoria": "hamburguesas",
+                "cantidad": ""
+            },
+            {
+                "producto": "CHICKEN LITTLE",
+                "precio": "50 MXN",
+                "categoria": "hamburguesas",
+                "cantidad": ""
+            },
+            {
+                "producto": "COLOMBIAS",
+                "precio": "70 MXN",
+                "categoria": "especialidades",
+                "cantidad": ""
+            },
+            {
+                "producto": "TEX-BURGER",
+                "precio": "75 MXN",
+                "categoria": "especialidades",
+                "cantidad": ""
+            },
+            {
+                "producto": "ALITAS",
+                "precio": "60 MXN",
+                "categoria": "especialidades",
+                "cantidad": ""
+            },
+            {
+                "producto": "COSTILLAS",
+                "precio": "65 MXN",
+                "categoria": "especialidades",
+                "cantidad": ""
+            },
+            {
+                "producto": "TRADICIONAL",
+                "precio": "30 MXN",
+                "categoria": "banderillas",
+                "cantidad": ""
+            },
+            {
+                "producto": "SALCHEESE",
+                "precio": "35 MXN",
+                "categoria": "banderillas",
+                "cantidad": ""
+            },
+            {
+                "producto": "BANDECHEESE",
+                "precio": "35 MXN",
+                "categoria": "banderillas",
+                "cantidad": ""
+            },
+            {
+                "producto": "PAPAS A LA FRANCESA",
+                "precio": "45 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "AROS DE CEBOLLA",
+                "precio": "45 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "POLLOMITAS",
+                "precio": "45 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "CHICKEN TENDER",
+                "precio": "70 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "DEDOS DE QUESO",
+                "precio": "65 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "PAPA DE WAFFLE",
+                "precio": "55 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "PAPA DE GAJO",
+                "precio": "55 MXN",
+                "categoria": "otros",
+                "cantidad": ""
+            },
+            {
+                "producto": "SODAS ITALIANAS",
+                "precio": "20 MXN",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "COCA COLA",
+                "precio": "20 MXN",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "REFRESCOS PREPARADOS",
+                "precio": "30 MXN",
+                "categoria": "bebidas",
+                "cantidad": ""
+            },
+            {
+                "producto": "BBQ",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "RFRESA",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "MANGO",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "TAMRINDO",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "RED HOT",
+                "precio": "",
+                "categoria": "salsas",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCAL",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ATÓMICAS",
+                "precio": "",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "RANCH, RANCH HOT",
+                "precio": "5 MXN ",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "MARYKAY",
+        "nombre": "MARYKAY",
+        "telefono": "5516070026",
+        "categoria": [
+            "mary kay ",
+            "maquillaje",
+            "belleza"
+        ],
+        "productos": [
+            {
+                "producto": "MAQUILLAJE EN POLVO SUELTO MINERAL",
+                "precio": "149 MXN",
+                "categoria": "mary kay ",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA CORRECTORA DE COLOR CON FPS 15",
+                "precio": "236 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MAQUILLAJE EN POLVO TRASLUCIDO MINERAL",
+                "precio": "110.50 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MAQUILLAJE EN CREMA CON ACABADO EN POLVO",
+                "precio": "173 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MAQUILLAJE LIQUIDO TIMEWISE 3D",
+                "precio": "268 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MARY KAY PERFECT PALETTE",
+                "precio": "135 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MARYKAY PETITE PALETTE",
+                "precio": "50 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "FIJADOR DE MAQUILLAJE EN SPRAY",
+                "precio": "307 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PAPELILLOS ABSORBENTES DE BRILLO FACIAL",
+                "precio": "75 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "POLVO SUELTO TRASLUCIDO",
+                "precio": "239 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BASE PARA MAQUILLAJE FPS 15",
+                "precio": "217 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN FACIAL MATIFICANTE",
+                "precio": "172 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CORRECTOR ILUMINADOR PARA OJOS",
+                "precio": "192 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CORRECTOR MARY KAY PERFECTING CONCEALER",
+                "precio": "192 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CORRECTOR PARA OJOS",
+                "precio": "145 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "RUBOR COMPACTO MARY KAY CHROMAFUSION",
+                "precio": "99 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "POLVO PARA CONTORNO DE ROSTRO MARY KAY CHROMAFUSION",
+                "precio": "99 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ILUMINADOR PARA ROSTRO MARY KAY CHROMAFUSION",
+                "precio": "99 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ILUMINADOR LIQUIDO EDICION LIMITADA",
+                "precio": "392 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SOMBRA PARA OJOS MARY KAY CHROMAFUSION",
+                "precio": "85 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN DESMAQUILLANTE DE OJOS LIBRE DE ACEITE",
+                "precio": "254 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BASE PARA SOMBRAS",
+                "precio": "145 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH INTENSITY",
+                "precio": "243 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE",
+                "precio": "192 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE EDICION LIMITADA",
+                "precio": "192 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS DE MÁXIMO DESEMPEÑO",
+                "precio": "192 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS A PRUEBA DE AGUA",
+                "precio": "158 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARA PARA PESTAÑAS LASH LOVE",
+                "precio": "226 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL VOLUMINIZADOR ",
+                "precio": "194 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LAPIZ DEFINIDOR DE CEJAS",
+                "precio": "149 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MINI ESTUCHE PARA CEJAS ",
+                "precio": "82 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LABIAL EN GEL SEMI-SHINE ",
+                "precio": "194 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BRILLO LABIAL NOURI SHINE",
+                "precio": "175 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LABIAL EN GEL SEMI MATE",
+                "precio": "194 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LABIAL MATE ",
+                "precio": "218 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "TINTAPARA LABIOS",
+                "precio": "264 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LAPIZ DELINEADOR PARA LABIOS",
+                "precio": "165 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LIMPIADOR DE BROCHAS",
+                "precio": "224 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SET ESENCIAL DE BROCHAS CON ESTUCHE",
+                "precio": "939 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA DELINEADORA PARA OJOS Y CEJAS",
+                "precio": "135 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESPONJA PARA MAQUILLAJE",
+                "precio": "166 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA PARA COLOR EN CREMA ",
+                "precio": "161 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA OVAL PARA MAQUILLAJE",
+                "precio": "239 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA PARA MAQUILLAJE LIQUIDO",
+                "precio": "209 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA PARA MAQUILLAJE EN POLVO",
+                "precio": "178 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA COMPACTA PARA RUBOR",
+                "precio": "41 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "BROCHA COMPACTA PARA POLVO",
+                "precio": "52 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "APLICADORES DE OJOS",
+                "precio": "32 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESPONJA COSMETICA ",
+                "precio": "43 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESPONJA COMPACTA PARA POLVO",
+                "precio": "41 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LAPIZ DELINEADOR PARA OJOS",
+                "precio": "134 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SACAPUNTAS ",
+                "precio": "19 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "TRIO DE SOMBRAS AT PLAY",
+                "precio": "144 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MAQUILLAJE LIQUIDO MATE",
+                "precio": "199 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CRAYÓN CORRECTOR DE COLOR ",
+                "precio": "145 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CRAYÓN PARA CONTORNO DE ROSTRO",
+                "precio": "145 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CRAYÓN ILUMINADOR PARA ROSTRO",
+                "precio": "145 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CRAYONES IRIDISCENTES",
+                "precio": "189 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LABIAL LIQUIDO MATE",
+                "precio": "189 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL LIMPIADOR BOTANICAL EFFECT",
+                "precio": "213 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARILLA EXFOLEANTE BOTANICAL EFFECT",
+                "precio": "234 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "TÓNICO FACIAL REFRESCANTE EFFECT",
+                "precio": "203 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN HUMECTANTE FACIALFPS 30 BOTANICAL EFFECT",
+                "precio": "213 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL HUMECTANTE BOTANICAL EFFECTS",
+                "precio": "218 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL LIMPIADOR PARA CUTIS CON TENDENCIA AL ACNÉ CLEAR PROOF",
+                "precio": "254 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN REFINADORA DE POROS PARA CUTIS CON TENDENCIA AL ACNÉ",
+                "precio": "254 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FOCALIZADA PARA CUTIS CON ACNÉ CLEAR PROOF",
+                "precio": "191 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARILLA FACIAL DE LIMPIEZA PROFUNDA CON CARBÓN ",
+                "precio": "298 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "RUTINA IDEAL 3D ",
+                "precio": "1549 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LIMPIADORA FACIAL 4 EN 1 TIME WISE",
+                "precio": "337 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FACIAL NOCTURNA TIME WISE",
+                "precio": "422 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA TIME WISE",
+                "precio": "369 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA FPS 30 TIME WISE",
+                "precio": "422 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA PARA EL CONTORNO DE LOS OJOS TIME WISE",
+                "precio": "368 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESPUMA LIMPIADORA FACIAL TIME WISE REPAIR ",
+                "precio": "362 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN FACIAL EFECTO REAFIRMANTE TIME WISE REPAIR",
+                "precio": "795 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FACIAL PARA EL DIA EFECTO REPARADOR FPS 30 TIMEWISE",
+                "precio": "572 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA FACIAL NOCTURNA EFECTO REPARADOR CON RETINOL TIMEWISE",
+                "precio": "572 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA DE ACCIÓN RENOVADORA PARA EL CONTORNO DE LOS OJOS TIMEWISE",
+                "precio": "495 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARILLA FACIAL EFECTO LIIFTING BIO-CELLULOSE TIMEWISE REPAIR",
+                "precio": "1496 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA EFECTO RELLENADOR DE ARRUGAS TIMEWISE REPAIR",
+                "precio": "453 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL FACIAL EFECTO PEELING REVEALING TIMEWISE REPAIR",
+                "precio": "799 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SISTEMA PARA MICROEXFOLIACIÓN TIMEWISE ",
+                "precio": "699 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MICROEXFOLIANTE REFINADOR TIMEWISE ",
+                "precio": "344 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MINIMIZADOR DE POROS",
+                "precio": "355 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN FACIAL REGENERADORA +C TIMEWISE ",
+                "precio": "805 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SUERO CORRECTOR DE TONO FACIAL TIMEWISE",
+                "precio": "511 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN FACIAL EFECTO REAFIRMANTE TIMEWISE REPAIR FORMULA AVANZADA",
+                "precio": "795 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL REFRESCANTE PARA PARPADOS",
+                "precio": "208 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PAPELILLOS DISOLUBLES PARA CUIDADO DE PIEL VITAMINA C ",
+                "precio": "375 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL FACIAL HIDRATANTE LIBRE DE ACEITE",
+                "precio": "386 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA EXTRAHIDRATANTE INTENSIVA",
+                "precio": "386 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL LIMPIADOR FACIAL MK MEN ",
+                "precio": "245 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCION FACIAL HIDRATANTE INTENSIVA FPS 30 MK MEN",
+                "precio": "312 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA INTENSIVA PARA OJOS MKMEN ",
+                "precio": "334 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL REFRESCANTE PARA DESPUES DE AFEITAR MKMEN",
+                "precio": "208 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESPUMA PARA AFEITAR MKMEN",
+                "precio": "204 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SET MKMEN",
+                "precio": "542 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "SISTEMA PARA EL CUIDADO DE LA PIEL SKINVIGORATE SONIC",
+                "precio": "1450 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CABEZALES DE REPUESTO SKINVIGORATE SONIC",
+                "precio": "259 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CABEZAL DE MASAJE FACIAL SKINVIGORATE SONIC",
+                "precio": "299 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARILLA REVITALIZADORA PARA CUERPO CON KARITÉ SATIN BODY",
+                "precio": "260 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA LIMPIADORA REFRESCANTE PARA CUERPO CON KARITÉ SATIN BODY",
+                "precio": "260 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN CORPORAL SEDOSA CON KARITÉ SATIN BODY",
+                "precio": "260 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "ESTUCHE PARA EL CUIDADO DE LAS MANOS SATIN HANDS",
+                "precio": "566 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA PARA MANOS CON KARITÉ SATIN HANDS",
+                "precio": "172 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA HUMECTANTE PARA LABIOS CON KARITÉ SATIN LIPS",
+                "precio": "169 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "MASCARILLA EXFOLIANTE PARA LABIOS CON KARITÉ SATIN LIPS",
+                "precio": "169 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PROTECTOR SOLAR PARA LABIOS CON FPS 15",
+                "precio": "141 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PROTECTOR SOLAR FPS 50",
+                "precio": "349 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PROTECTOR SOLAR FPS 30",
+                "precio": "260 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "GEL CORPORAL RESTAURADOR PARA DESPUÉS DE ASOLEARSE",
+                "precio": "190 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN REAFIRMANTE CORPORAL TIMEWISE BODY ",
+                "precio": "427 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "LOCIÓN HUMECTANTE PARA PIES Y PIERNAS ",
+                "precio": "161 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "CREMA EXTRAEMOLIENTE DE NOCHE",
+                "precio": "56 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME PINK DIAMONDS",
+                "precio": "431 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME PINK DIAMOND INTENSE ",
+                "precio": "604 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME LOVE FEARLESSLY",
+                "precio": "539 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE PASSION NOIR",
+                "precio": "395 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME MODERN CHARM",
+                "precio": "535 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME DREAM FEARLESSLY",
+                "precio": "539 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE BLACK DIAMONDS",
+                "precio": "390 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "PERFUME LIVE FEARLESSLY",
+                "precio": "539 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "FRAGANCIA DREAM FERALESSLY RECARGABLE",
+                "precio": "109 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE CLEVER DARE ",
+                "precio": "431 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE TRUE PASSION ",
+                "precio": "395 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE PARFUM CITY SCAPE PARA ELLA",
+                "precio": "804 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE HELLO BRILLIANT ",
+                "precio": "377 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE TRUE PASSION ",
+                "precio": "395 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE TOILETTE MARYKAY WISH",
+                "precio": "461 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE PARFUM FOREVER DIAMONDS",
+                "precio": "431 MXN",
+                "categoria": "",
+                "cantidad": ""
+            },
+            {
+                "producto": "EAU DE PARFUN BELLA BELARA",
+                "precio": "496 MXN",
+                "categoria": "",
+                "cantidad": ""
+            }
+        ]
+    },
+    {
+        "id": "TRANSPORTES SR AGUSTIN",
+        "nombre": "TRANSPORTES SR AGUSTIN",
+        "telefono": "5574244569",
+        "categoria": [
+            "transporte"
+        ],
+        "productos": [
+            {
+                "producto": "CHOFER TIPO UBER QUE OTORGA EL SERVICIO DE TRANSPORTE AL NÚMERO: 5574244569",
+                "precio": "",
+                "categoria": "transporte",
+                "cantidad": ""
+            }
+        ]
+    }
+]
